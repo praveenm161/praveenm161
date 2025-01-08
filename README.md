@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @praveenm161
+
 - 👀 I’m interested in Java Developer
 - 🌱 I’m currently learning Java Full Stack Developer
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me @praveenmohan1698@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 praveenm161/praveenm161 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
