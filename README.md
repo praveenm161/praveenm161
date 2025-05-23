@@ -1,5 +1,5 @@
 
-- 👀 I’m interested in Java Developer
+- 👀 I’m interested in Software Developer
 - 🌱 I’m currently learning Java Full Stack Developer
 
 - 📫 How to reach me @praveenmohan1698@gmail.com
